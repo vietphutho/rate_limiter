@@ -31,7 +31,7 @@ Thiết kế một middleware RateLimiter giúp:
 │   ├── redis_pubsub.go
 │   ├── middleware.go
 │   └── limiter_test.go
-├── main.go (hoặc server.go nếu cần demo)
+├── main.go
 ├── go.mod
 └── README.md
 
